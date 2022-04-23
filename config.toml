@@ -1,0 +1,5 @@
+app_id = "123456789"
+bucket = "test-1259654469"
+region = "ap-guangzhou"
+secret_id = "id"
+secret_key = "key"
